@@ -26,6 +26,7 @@ public class Sample_1 {
 		System.out.println("余り＝" + amari);
 	}
 }
+// wwwwwwwwwwwwwwwwwwwwwwwwww
 /*エラーコード
 Exception in thread "main" java.lang.Error: Unresolved compilation problem:
 	w を変数に解決できません
