@@ -27,6 +27,7 @@ public class Sample_1 {
 	}
 }
 // wwwwwwwwwwwwwwwwwwwwwwwwww
+//wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 /*エラーコード
 Exception in thread "main" java.lang.Error: Unresolved compilation problem:
 	w を変数に解決できません
